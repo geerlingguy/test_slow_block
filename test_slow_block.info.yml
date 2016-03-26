@@ -1,0 +1,8 @@
+name: 'Test Slow Block'
+type: module
+description: "Provides a really slow test block for testing BigPipe."
+package: Experimental
+version: VERSION
+core: 8.x
+dependencies:
+  - big_pipe
